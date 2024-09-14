@@ -1,2 +1,2 @@
 # Nishant_Portfolio
-I developed this portfolio using HTML,CSS,JAVASCRIT
+I developed this portfolio using HTML,CSS,JAVASCRIPT.
